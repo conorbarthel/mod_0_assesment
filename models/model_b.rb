@@ -1,7 +1,7 @@
 home = {
   address: 4579,
   street: "Elm",
-  city: "Denver"
+  city: "Denver",
   zip: 80234,
   ocupied: true,
   has_garage: false,
